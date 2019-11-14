@@ -1,5 +1,8 @@
 # Y9000X-4K-hackintosh
+
 **Y9000X 4K hackintosh 黑苹果 efi**
+
+精力有限希望大家一起完善
 
 **配置** 4K/ i7 9750H/ 16G/ INTEL760p+PM981/ DW1820A
 
