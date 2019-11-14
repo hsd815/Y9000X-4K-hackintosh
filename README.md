@@ -1,7 +1,7 @@
 # Y9000X-4K-hackintosh
 **Y9000X 4K hackintosh 黑苹果 efi**
 
-**配置** 4k/ i7 9750H/ 16g/ intel760p+PM981/ DW1820A
+**配置** 4K/ i7 9750H/ 16G/ INTEL760p+PM981/ DW1820A
 
 支持10.14/10.15系统
 
