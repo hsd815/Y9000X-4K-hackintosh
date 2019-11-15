@@ -14,10 +14,11 @@
 
 在[programbw](https://github.com/programbw/y9000x)的EFI基础上
 
-* 添加了4k显示补丁，显存2048M，原生HiDPI显示
+* 添加了**4k显示补丁，显存2048M，原生HiDPI显示**
 * 去除了多余的驱动和patch
 * 加入了DW1820a的device property驱动，可以支持apple watch自动解锁 
 * 添加了屏蔽PM981的patch
+* 添加了**Open Core引导**
 
 # 更新
 * 2019.11.15 open core漏掉了电源管理和airdropbcmfixup两个驱动，已经补上了
