@@ -9,6 +9,7 @@
 支持10.14/10.15系统
 
 # 基于[programbw](https://github.com/programbw/y9000x)的EFI修改
+# 按照[黑果小兵](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)的DW1820A蓝牙教程添加驱动
 
 在[programbw](https://github.com/programbw/y9000x)的EFI基础上
 
