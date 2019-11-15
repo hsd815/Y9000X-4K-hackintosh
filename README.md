@@ -49,6 +49,8 @@ wifi 蓝牙 handoff airdrop
 不工作
 ---
 
+**Catalina下触控板可能会无法驱动**
+
 **指纹**
 
 **fn热键**
