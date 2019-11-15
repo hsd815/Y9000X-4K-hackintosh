@@ -21,7 +21,7 @@
 * 添加了**Open Core引导**
 
 # 更新
-* 2019.11.16 去除了一些无用驱动，更新了新的USB定制文件 现在Open Core支持10.14系统了
+* 2019.11.16 去除了一些无用驱动，更新了新的USB定制文件 [现在Open Core支持10.14系统了](https://github.com/hsd815/Y9000X-4K-hackintosh/edit/)
 * 2019.11.15 open core漏掉了电源管理和airdropbcmfixup两个驱动，已经补上了
 * 2019.11.15 更新了open core引导 clover变更了一些驱动
 * 2019.11.14 更新了USB定制aml文件
