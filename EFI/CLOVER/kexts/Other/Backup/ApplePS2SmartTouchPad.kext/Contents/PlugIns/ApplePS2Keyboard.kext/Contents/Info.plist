@@ -45,11 +45,11 @@
 			<key>Extended Functions</key>
 			<dict>
 				<key>F13</key>
-				<string>ALT CMD ESC</string>
+				<string>ALT CMD L</string>
 				<key>F14</key>
-				<string></string>
+				<string>CTRL 1</string>
 				<key>F15</key>
-				<string></string>
+				<string>CTRL 2</string>
 				<key>F16</key>
 				<string>ALT CMD D</string>
 				<key>F17</key>
