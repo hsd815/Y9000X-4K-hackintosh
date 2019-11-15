@@ -6,7 +6,9 @@
 
 **配置** 4K/ i7 9750H/ 16G/ INTEL760p+PM981/ DW1820A
 
-支持10.14/10.15系统
+Clover 支持10.14/10.15系统
+
+Open Core 目前只有10.15系统能进去，而且有些声音和蓝牙问题还需要完善
 
 # 基于[programbw](https://github.com/programbw/y9000x)的EFI修改
 # 按照[黑果小兵](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)的DW1820A蓝牙教程添加驱动
