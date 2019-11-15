@@ -42,7 +42,9 @@
 
 wifi 蓝牙 handoff airdrop
 
-触控板全手势支持 电源管理 USB接口正常
+触控板全手势支持（Mojave系统下测试正常）
+
+电源管理 USB接口正常
 
 雷电接口可以正常接U盘
 
