@@ -1,7 +1,7 @@
 # Y9000X-4K-hackintosh
 # Clover + Open Core
 
-*Clover* 支持10.14/10.15系统
+*Clover* 支持10.14/10.15系统 **现在重心转移到opencore了，clover应该不会再更新了**
 
 *Open Core* 【10.14系统启动参数dart请改为8】目前声音没有正确驱动还需要完善
 
