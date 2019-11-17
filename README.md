@@ -3,7 +3,7 @@
 
 *Clover* 支持10.14/10.15系统 **现在重心转移到opencore了，clover应该不会再更新了**
 
-*Open Core* 【10.14系统启动参数dart请改为8】目前声音没有正确驱动还需要完善
+*Open Core* 目前声音没有正确驱动还需要完善
 
 * *个人建议Clover+10.14系统使用，精力有限希望大家一起完善*
 
@@ -21,6 +21,7 @@
 * 添加了**Open Core引导**
 
 # 更新
+* 2019.11.17 更新了第二版OC引导，现在10.14和10.15系统的**触控板都正常工作了**。除了声音和FN热键外其他基本正常。
 * 2019.11.16 去除了一些无用驱动，更新了新的USB定制文件 [现在Open Core支持10.14系统了](https://github.com/hsd815/Y9000X-4K-hackintosh/edit/)
 * 2019.11.15 open core漏掉了电源管理和airdropbcmfixup两个驱动，已经补上了
 * 2019.11.15 更新了open core引导 clover变更了一些驱动
@@ -56,7 +57,7 @@
 
 wifi 蓝牙 handoff airdrop
 
-触控板全手势支持（Mojave系统下测试正常）
+触控板全手势支持
 
 电源管理 USB接口正常
 
@@ -65,7 +66,7 @@ wifi 蓝牙 handoff airdrop
 不工作
 ---
 
-**Catalina下触控板可能会无法驱动**
+**Clover Catalina下触控板可能会无法驱动**
 
 **指纹**
 
