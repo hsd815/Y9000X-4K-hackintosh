@@ -86,5 +86,5 @@ wifi 蓝牙 handoff airdrop
 
 如果加了驱动却不生效：终端输入`kextstat | grep -v com.apple`查看已加载驱动
 
-可能由于SSDT里windows系统未更名的原因，opencore偶尔进入系统会丢失声音驱动和触控板驱动
+opencore偶尔进入系统会丢失声音驱动和触控板驱动
 
