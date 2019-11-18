@@ -86,5 +86,5 @@ wifi 蓝牙 handoff airdrop
 
 如果加了驱动却不生效：终端输入`kextstat | grep -v com.apple`查看已加载驱动
 
-opencore偶尔进入系统会丢失声音驱动和触控板驱动
+opencore如果使用启动磁盘功能选择默认启动磁盘进入系统会丢失声音驱动和触控板驱动
 
