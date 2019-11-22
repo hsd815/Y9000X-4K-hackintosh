@@ -25,7 +25,7 @@
 * [hackintool教程](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
 * [USB定制教程](https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html)
 * [DW1820A教程及驱动](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)
-* [Imessage和facetime详细教程](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/) [中文教程](https://blog.csdn.net/weixin_40684028/article/details/85270633)，使用中文教程前，注意以下几点：1.先退出icloud.com。2.删除与Imessage有关的缓存文件。3.登录网页icloud，删除所有macbook和imac设备。4.不要使用自己的大号测试，如果测试不成功会账号被苹果拉入黑名单。5.BSD名称的顺序会影响imessage认证，看自己的wifi的BSD是不是en0不是的话删除network配置文件。
+* [Imessage和facetime详细教程](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)和[中文教程](https://blog.csdn.net/weixin_40684028/article/details/85270633)，使用中文教程前，注意以下几点：1.先退出icloud.com。2.删除与Imessage有关的缓存文件。3.登录网页icloud，删除所有macbook和imac设备。4.不要使用自己的大号测试，如果测试不成功账号会被苹果拉入黑名单。5.BSD名称的顺序会影响imessage认证，看自己的wifi的BSD是不是en0不是的话删除network配置文件。
 # 前期准备
 * **更换硬盘**：pm981a无法安装黑苹果，我加了一个了intel的760p硬盘。由于有pm981存在，系统非常不稳定随时死机重启。必须拆下三星的这块硬盘或者屏蔽这块硬盘。本efi默认屏蔽这块硬盘且pm981在第一硬盘位，如果你选择直接拆下这块硬盘，请删除efi/clover/acpi/patched/SSDT-DNVMe.aml文件。
 * **更换网卡为DW1820a**：我按照[黑果小兵](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)的教程对这块网卡做了屏蔽。
