@@ -19,9 +19,9 @@
 * 2019.11.13 更新了屏蔽pm981的aml文件
 * 2019.11.12 更新了一些图片
 # 相关教程
-* [OpenCore教程](https://blog.xjn819.com/?p=543)
+* [OpenCore教程1](https://blog.xjn819.com/?p=543) [OpenCore教程2](https://blog.daliansky.net/OpenCore-BootLoader.html)
 * [OpenCore补丁](https://github.com/daliansky/OC-little)
-* [AppleALC定制教程](https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html)和[视频教程](https://www.bilibili.com/video/av49595490?from=search&seid=14028812718245345296)
+* [AppleALC声卡驱动定制教程](https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html)和[视频教程](https://www.bilibili.com/video/av49595490?from=search&seid=14028812718245345296)
 * [hackintool教程](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
 * [USB定制教程](https://blog.daliansky.net/Intel-FB-Patcher-USB-Custom-Video.html)
 * [DW1820A教程及驱动](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)
