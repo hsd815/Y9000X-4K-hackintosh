@@ -42,6 +42,7 @@
 * 雷电接口转接HDMI
 * FN热键
 # 其他问题
+* 有朋友提到测试版的蓝牙驱动不是很正常，如有蓝牙异常的朋友们请到[DW1820A教程及驱动](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)更换稳定版驱动
 * opencore如果使用启动磁盘功能选择默认启动磁盘进入系统有可能会丢失声音驱动和触控板驱动
 * 如果加了驱动却不生效：终端输入`kextstat | grep -v com.apple`查看已加载驱动
 * opencore设置了timeout时间为1秒，初次切换opencore时按`ESC`进入系统选择菜单，进入系统后再通过系统的`启动磁盘`功能选择默认启动磁盘
