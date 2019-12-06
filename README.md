@@ -29,7 +29,7 @@
 # 前期准备
 * **更换硬盘**：pm981a无法安装黑苹果，我加了一个了intel的760p硬盘。由于有pm981存在，系统非常不稳定随时死机重启。必须拆下三星的这块硬盘或者屏蔽这块硬盘。本efi默认屏蔽这块硬盘且pm981在第一硬盘位，如果你选择直接拆下这块硬盘，请删除efi/clover/acpi/patched/SSDT-DNVMe.aml文件。
 * **更换网卡为`DW1820a`**：我按照[黑果小兵](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)的教程对这块网卡做了屏蔽。
-* 关闭`intel VT-d`
+* ~~关闭`intel VT-d`~~
 * 切换硬盘模式为 `AHCI`
 * 关闭`secure boot`
 # 工作
