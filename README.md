@@ -2,6 +2,9 @@
 ---
 ---
 个人建议OpenCore+10.15或者Clover+10.14系统使用，精力有限希望大家一起完善
+
+# *投票* --> [有关于拯救者Y9000X，除Windows以外系统支持需求](https://club.lenovo.com.cn/thread-5672284-1-1.html) 请大家帮忙投上一票，官方可能会解决linux或其他系统下的声音和雷电问题。
+
 # EFI信息
 * 配置:4K/ i7 9750H/ 16G/ INTEL760p+PM981/ DW1820A
 * Clover + Open Core
