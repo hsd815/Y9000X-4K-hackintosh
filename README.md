@@ -7,7 +7,7 @@ OpenCore+10.15系统
 
 # 更新CFG Lock解锁，解锁方法[在这里](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189)
 
-实测有效，官方BIOS，CFG Lock的offset为0x3E，按照[上述教程](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189)找到两个0x3E位置的值改为0x00即可，改完后Hackintool显示CFG Lock已解锁。
+实测有效，官方BIOS，CFG Lock的offset为0x3E（非同配置4k版本的请自己寻找CFG Lock的位置，不要用0x3E！），按照[上述教程](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1845189)找到两个0x3E位置的值改为0x00即可，改完后Hackintool显示CFG Lock已解锁。
 
 # 2019.12.12 因本人太忙。。该仓库暂时停止更新。。仓库请各位朋友fork完善
 
